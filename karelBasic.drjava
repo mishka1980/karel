@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20140826-r5761">
+  <project autorefresh="false" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="AddBot.java" package="" timestamp="27-Nov-2017 09:06:37">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="NoNeighborArmy.java" package="" timestamp="31-Oct-2017 09:08:06">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Courting.java" package="" timestamp="14-Nov-2017 09:33:46">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="FishBot.java" package="" timestamp="09-Nov-2017 09:39:48">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="PrettyBoxBot.java" package="" timestamp="08-Nov-2017 09:28:43">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="DoubleDropper.java" package="" timestamp="23-Oct-2017 09:10:17">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="bushPlanter.java" package="" timestamp="25-Oct-2017 09:33:29">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="threeMover.java" package="" timestamp="24-Oct-2017 09:44:56">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="BeeperHandoff.java" package="" timestamp="18-Oct-2017 09:12:48">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="KarelStarter.java" package="" timestamp="17-Oct-2017 09:31:28">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="GroceryPickup.java" package="" timestamp="17-Oct-2017 09:43:53">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Demo.java" package="" timestamp="17-Oct-2017 09:29:32">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="MakeWorld.java" package="" timestamp="17-Oct-2017 09:29:32">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Skeleton.java" package="" timestamp="17-Oct-2017 09:31:24">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="teamPlayer.java" package="" timestamp="24-Oct-2017 09:37:43">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="twoMover.java" package="" timestamp="25-Oct-2017 09:05:34">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Oct24.java" package="" timestamp="25-Oct-2017 09:07:18">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Forester.java" package="" timestamp="25-Oct-2017 09:18:12">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="MaplePlanter.java" package="" timestamp="25-Oct-2017 09:26:32">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="oakPlanter.java" package="" timestamp="26-Oct-2017 09:02:57">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="PlantersCongolmerate.java" package="" timestamp="26-Oct-2017 09:05:59">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Choreographer.java" package="" timestamp="26-Oct-2017 09:19:56">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="RobotArmyInt.java" package="" timestamp="30-Oct-2017 09:27:03">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="ArmyNeighborTalker.java" package="" timestamp="30-Oct-2017 09:36:36">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="TwoTalker.java" package="" timestamp="31-Oct-2017 09:06:47">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="NoStrategy.java" package="" timestamp="07-Nov-2017 09:20:09">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Strategy.java" package="" timestamp="07-Nov-2017 09:20:26">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="ThreeBeeper.java" package="" timestamp="07-Nov-2017 09:20:58">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CornerLayer.java" package="" timestamp="08-Nov-2017 08:59:29">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="SideLayer.java" package="" timestamp="08-Nov-2017 09:00:02">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="DartForward.java" package="" timestamp="09-Nov-2017 09:15:41">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="DartLeft.java" package="" timestamp="09-Nov-2017 09:19:53">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Partner.java" package="" timestamp="14-Nov-2017 09:01:35">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="LBot.java" package="" timestamp="14-Nov-2017 09:19:02">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="JusticeOfThePeaceBot.java" package="" timestamp="14-Nov-2017 09:25:00">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="MathBot.java" package="" timestamp="21-Nov-2017 09:29:48">
+        <select from="710" to="710"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="lib/KarelJRobot.jar"/>
+      <file absolute="false" name="lib/kareluniverse.jar"/>
+      <file absolute="false" name="lib/junit-4.12.jar"/>
+      <file absolute="false" name="lib/hamcrest-core-1.3.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

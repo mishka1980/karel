@@ -1,15 +1,22 @@
-# ugh
-### Here's the story
 
-Gym Bot
+This repository will contain all of the APCS Karel the Robot code and assignments.
 
-can use an equipment bot. Adds health to the gym bot.
+Use:
 
-looks for equipment
+* Make your own repository to hold your version of this code. (note link for use below)
+* Clone this repository
+* Change the name to "upstream":
+     git remote rename origin upstream
+* Add your own repository as a remote:
+     git remote add origin [link from starting step]
 
+## Save process
 
-Equipment_Bot
+You can use the `save-it` script or type the following commands:
 
-use method - adds buffness
+```
+git add -A
+git commit -a -m 'Save'
+git push -u origin master
+```
 
-equipment_bot also has a durability
