@@ -1,0 +1,13 @@
+public class GymBot extends Robot implements Directions {
+  
+  health = 0;
+  public GymBot(int r, int c, Direction d, int b, int h) {
+    super(r,c,d,b);
+    health = h;
+  }
+  
+  public workout(int a) {
+    health = h + a;
+  }
+  
+}

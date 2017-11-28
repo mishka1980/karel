@@ -11,7 +11,7 @@ public class ArmyNeighborTalker extends UrRobot implements RobotArmyInt {
     neighbor= aRobot;
   }
   
-  public void distribute Beepers()
+  public void distributeBeepers()
   {
     neighbor.distributeBeepers();
     putBeeper();
